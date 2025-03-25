@@ -1,3 +1,9 @@
+<header>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=800&color=FDFDFD&vCenter=true&width=800&lines=Welcome+to+my+profile!;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+  
+</header>
+
 ***Hi, my name is Vicky! Nice to meet you. 💛***
 
 ![Pic](https://media.tenor.com/JnRmb1jCD3oAAAAM/cat-wave.gif)
